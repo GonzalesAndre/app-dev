@@ -29,8 +29,10 @@
 |Kureha Shinogi| Kureha Shinogi, a surgical genius and fighter from Baki the Grappler, is the older brother of Koushou Shinogi and known as the "Super Doctor".|
 |Kiyosumi Katou| Kiyosumi Katou, a character from Baki the Grappler, is a top student of Doppo Orochi, known as the "Dangerous Lion of Shinshinkai" and believes in no-holds-barred karate.|
 
-## Japanese Manga Artist
-### 
+## Japanese Manga Artist (Keisuke Itagaki)
+### Keisuke Itagaki (板垣恵介, Itagaki Keisuke, born April 4, 1957) is a Japanese manga artist. He is best known for his martial arts series Grappler Baki (1991–1999) and its four sequels, which have sold over 75 million volumes.[1] In 1996, he began working on Garōden, an original work by Baku Yumemakura. He has also collaborated on the series Garōden Boy.
+Prior to becoming a manga artist, he served five years in the 1st Airborne Brigade of the Japan Ground Self-Defense Force.[2] During his service he practiced amateur boxing, and has competed in the National Sports Festival. He also holds a degree in Shorinji Kempo, which he has practiced since he was a teenager.
+He is the father of Paru Itagaki, Beastars manga author.
 
 ## Contents
 |Contents|
