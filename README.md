@@ -4,7 +4,7 @@
 
 
 # The Main Character Baki Hanma (He is known as the "Champion" and "the World's Strongest Boy")
-![Baki1!](Baki6.jpeg)
+![Baki1!](Baki8.jpg)
 
 ## The Story All About?
 ![Baki1!](Baki1.jpg)
