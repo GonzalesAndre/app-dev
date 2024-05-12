@@ -29,6 +29,9 @@
 |Kureha Shinogi| Kureha Shinogi, a surgical genius and fighter from Baki the Grappler, is the older brother of Koushou Shinogi and known as the "Super Doctor".|
 |Kiyosumi Katou| Kiyosumi Katou, a character from Baki the Grappler, is a top student of Doppo Orochi, known as the "Dangerous Lion of Shinshinkai" and believes in no-holds-barred karate.|
 
+## Japanese Manga Artist
+### 
+
 ## Contents
 |Contents|
 |--------|
