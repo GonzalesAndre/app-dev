@@ -9,7 +9,7 @@
 ## The Story All About?
 ### Baki Hanma is a young man born into a family of legendary fighters who aspires to surpass his father, Yujiro Hanma, who is considered the strongest on Earth. Baki's journey begins with his mother, Emi Akezawa, and grandfather, Doppo Orochi, both martial artists. As he grows older, he enters the underground martial arts scene, encountering skilled fighters with unique styles and techniques. His struggle with his father, Yujiro, serves as a symbol of his internal struggles and relentless pursuit of excellence. Baki's quest for martial perfection drives him to travel the world, training under different masters and learning from diverse martial arts disciplines. His journey also explores themes of purpose, legacy, and personal fulfillment. Baki Hanma's story is a gripping tale of ambition, determination, and the pursuit of greatness in the face of seemingly insurmountable challenges.
 
-## Characters
+## Main Characters
 |Characters|Info|
 |----------|----|
 |Baki Hanma| Baki Hanma, the protagonist of the Baki the Grappler franchise, takes his father's footsteps and fights in the no-rules arena at 15. He is the "Champion" of the Underground Arena in Tokyo Dome and is often referred to as "the World's Strongest Boy."|
@@ -29,6 +29,36 @@
 |Kureha Shinogi| Kureha Shinogi, a surgical genius and fighter from Baki the Grappler, is the older brother of Koushou Shinogi and known as the "Super Doctor".|
 |Kiyosumi Katou| Kiyosumi Katou, a character from Baki the Grappler, is a top student of Doppo Orochi, known as the "Dangerous Lion of Shinshinkai" and believes in no-holds-barred karate.|
 
-##
+## Contents
+|Contents|
+|--------|
+|1	Main characters|
+|2	Other characters|
+|2.1	Baki the Grappler|
+|2.1.1	Underground Arena Saga|
+|2.1.2	Childhood Saga|
+|2.1.3	Maximum Tournament Saga|
+|2.2	Baki|
+|2.2.1	Most Evil Death Row Convicts Saga|
+|2.2.2	Great Chinese Challenge Saga|
+|2.2.3	Godlike Clash of the Kids Saga|
+|2.3	Hanma Baki|
+|2.3.1	Combat Shadow Fighting Saga|
+|2.3.2	Great Prison Battle Saga|
+|2.3.3	Pickle Wars Saga|
+|2.3.4	Warrior's Struggle Saga|
+|2.3.5	Strongest Father and Child Quarrel Saga|
+|2.4	Baki-Dou|
+|2.5	Baki Dou|
+|2.6	Grappler Baki Gaiden: Antonio Igari vs Mount Toba|
+|2.7	Baki Gaiden: Scarface|
+|2.8	Hanma Baki 10.5 Gaiden: Pickle|
+|2.9	Baki Gaiden: Kizudzura|
+|2.10	Baki Gaiden: Kenjin|
+|2.11	Yuuenchi - Baki Gaiden Manga|
+|2.11.1	Novel only|
+|2.12	Baki Gaiden: Gaia to Sikorsky|
+|2.13	Baki Gaiden: Hana no Chiharu|
+|2.14	Grappler Baki (Remake)|
 
 
