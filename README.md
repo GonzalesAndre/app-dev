@@ -1,5 +1,5 @@
 # Anime Series: Baki Hanma
-![Baki1!]()
+![Baki1!](Baki7.jpg)
 ![Baki1!](Baki5.jpeg)
 
 
