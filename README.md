@@ -1,6 +1,6 @@
 # Anime Series: Baki Hanma
 
-![Baki1!](Baki4.jpg)
+![Baki1!](Baki5.jpeg)
 
 
 # The Main Character Baki Hanma (He is known as the "Champion" and "the World's Strongest Boy")
